@@ -1,38 +1,23 @@
 {
 "items": [
-  {
-    "id": 1,
-    "listId": 1,
-    "title": "Washing pods",
-    "quantity": 1,
-    "price": 6990
-  },
-  {
-    "id": 2,
-    "listId": 1,
-    "title": "Rice",
-    "quantity": 1,
-    "price": 999
-  },
-  {
-    "id": 3,
-    "listId": 2,
-    "title": "Birthday Cake",
-    "quantity": 1,
-    "price": 1013
-  }
+  { "id": 1, "listId": 1, "title": "Washing pods", "quantity": 1, "price": 6990 },
+  { "id": 2, "listId": 1, "title": "Rice", "quantity": 1, "price": 999 },
+  { "id": 3, "listId": 2, "title": "Birthday Cake", "quantity": 1, "price": 1013 }
 ],
 "lists" : [
-  {
-    "id": 1,
-    "title": "Daily groceries"
-  },
-  {
-    "id": 2,
-    "title": "Birthday youngest child"
-  }
+  { "id": 1, "title": "Daily groceries" },
+  { "id": 2, "title": "Birthday youngest child" }
 ],
-  "profile": {
+"posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+],
+"comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+],
+"profile": {
     "name": "d.o.c.t"
-  }
+}
 }
