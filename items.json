@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "listId": 1,
+    "title": "Washing pods",
+    "quantity": 1,
+    "price": 6990
+  },
+  {
+    "id": 2,
+    "listId": 1,
+    "title": "Rice",
+    "quantity": 1,
+    "price": 999
+  },
+  {
+    "id": 3,
+    "listId": 2,
+    "title": "Birthday Cake",
+    "quantity": 1,
+    "price": 1013
+  }
+]
